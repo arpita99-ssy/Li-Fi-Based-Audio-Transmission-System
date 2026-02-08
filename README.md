@@ -11,8 +11,6 @@ This repository contains the design and documentation of a Li-Fi based audio tra
 - 5V DC Power Supply  
 - Jumper Wires and PCB  
 
----
-
 ## 🔁 Working Principle
 1. Audio input is fed into the system.
 2. The audio signal modulates the intensity of the LED.
